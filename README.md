@@ -19,7 +19,6 @@
 ## 🔍 Vista Previa
 El sitio cuenta con:
 - Cabecera luminosa con efecto de sombra roja
-- Tarjeta de perfil con avatar
 - Sección de biografía
 - Botones de redes sociales animados
 - Footer dinámico
